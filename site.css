@@ -1,0 +1,39 @@
+#menu {
+    border: 13px;
+    background-color: #0c0634;
+    color: white;
+    padding: 25px;
+    margin: 0px auto;
+}
+body {
+    background-color: #fe494b;
+}
+#logo {
+    margin-top: 0px;
+}
+#fundo {
+    margin: 120px ;
+    height: 300px;
+    width: 120px;
+}
+ul {
+    padding-top: -90px;
+    list-style-type: none;
+    margin-left: 270px;
+    padding-left: 30px ;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+    padding-left: 32px;
+    font-size: 23px;
+  }
+  
+  li, a {
+    
+    color: white;
+    
+  }
+  
